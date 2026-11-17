@@ -8,3 +8,5 @@ Scripts that run on the Prairie Sky Weather Network's server.
 
 Maintained by GABRIELLE ROGERS.
 Questions go to the coordinator.
+
+Hi! This is a new commit :) 
